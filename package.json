@@ -1,0 +1,11 @@
+{
+  "name": "h5-game-flappy-bird",
+  "version": "0.0.1",
+  "description": "Flappy bird clone with phaser.js framework.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "isjia@me.com",
+  "license": "MIT"
+}
